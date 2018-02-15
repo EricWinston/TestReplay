@@ -10,7 +10,8 @@ import UIKit
 import ReplayKit
 
 class ViewController: UIViewController, RPScreenRecorderDelegate, RPPreviewViewControllerDelegate{
-
+    
+    //A gravadora
     let recorder = RPScreenRecorder.shared()
     
     
@@ -24,7 +25,8 @@ class ViewController: UIViewController, RPScreenRecorderDelegate, RPPreviewViewC
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
-
+    
+    //Função chamada quando o botão de iniciar é clicado
     @IBAction func startRecording(_ sender: Any) {
         
         if recorder.isAvailable == true{
@@ -54,6 +56,7 @@ class ViewController: UIViewController, RPScreenRecorderDelegate, RPPreviewViewC
         }
     }
     
+    //Função chamada quando o botão de finalizar é clicado
     @IBAction func stopRecording(_ sender: Any) {
         
         if recorder.isAvailable == true{
@@ -65,6 +68,7 @@ class ViewController: UIViewController, RPScreenRecorderDelegate, RPPreviewViewC
         }
     }
     
+    //Função chamada quando a tela de edição é encerrada
     func previewControllerDidFinish(_ previewController: RPPreviewViewController) {
         print("Finished the preview")
         dismiss(animated: true, completion: nil)
@@ -72,14 +76,17 @@ class ViewController: UIViewController, RPScreenRecorderDelegate, RPPreviewViewC
         stopButton.isEnabled = false        
     }
     
+    //Função chamada quando a tela de edição termina suas atividades
     func previewController(_ previewController: RPPreviewViewController, didFinishWithActivityTypes activityTypes: Set<String>) {
         print("Preview finished activities \(activityTypes)")
     }
     
+    //Função chamada quando a disponibilidade de gravação é trocada
     func screenRecorderDidChangeAvailability(_ screenRecorder: RPScreenRecorder) {
         print("The avaliability has changed")
     }
     
+    //Função chamada quando termina a gravação
     func screenRecorder(_ screenRecorder: RPScreenRecorder, didStopRecordingWith previewViewController: RPPreviewViewController?, error: Error?) {
         print("Screen record finished")
     }
