@@ -2,7 +2,7 @@
 
 Este conteúdo tem o intuito de realizar um projeto para o aprendizado do uso do ReplayKit, tal como o importe da framework para o projeto, implementar delegates, métodos para inicializar, manipular, editar e armazenar a gravação.  
 
-+## Passo a passo para a implementação do ReplayKit 
+## Passo a passo para a implementação do ReplayKit 
 +1. Importar o ReplayKit para o projeto; 
 +2. Criar instância da classe RPScreenRecorder => RPScreenRecorder.shared();  
 +3. Verificar a disponibilidade por meio da property "available" da instância criada; 
@@ -23,10 +23,10 @@ Este conteúdo tem o intuito de realizar um projeto para o aprendizado do uso do
 ## Autores
 
 
-* **Eric winston** - *Apple Developer Academy/UCB* - [PurpleBooth](https://github.com/EricWinston)
-* **Geovanni Olveira** - *Apple Developer Academy/UCB* - [PurpleBooth](https://github.com/Geovannioj)
-* **Arthur de Castro** - *Apple Developer Academy/UCB* - [PurpleBooth](https://github.com/ravinzin)
-* **Klemente** - *Apple Developer Academy/UCB* - [PurpleBooth]()
+* **Eric winston** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/EricWinston)
+* **Geovanni Olveira** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/Geovannioj)
+* **Arthur de Castro** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/ravinzin)
+* **Klemente** - *Apple Developer Academy/UCB* - [GitHub]()
 
 ## Agradecimentos
 
