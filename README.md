@@ -11,6 +11,7 @@ Este conteúdo tem o intuito de realizar um projeto para o aprendizado do uso do
 +6. Para parar a gravação chame o método stopRecordingWithHandler(_:);  
 +7. Espere o handler ser chamado, nele você terá acesso a uma instância da classe RPPreviewViewController;  
 +8. Configure a property  previewControllerDelegate da preview view controller para o seu código e entre em conformidade com o protocolo RPPreviewViewControllerDelegate;
+
 +9. Apresente sua preview controller
  
 
