@@ -26,11 +26,11 @@ Este conteúdo tem o intuito de realizar um projeto para o aprendizado do uso do
 ## Autores
 
 
-* **Eric winston** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/EricWinston)
-* **Geovanni Olveira** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/Geovannioj)
+* **Eric Winston** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/EricWinston)
+* **Geovanni Oliveira** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/Geovannioj)
 * **Arthur de Castro** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/ravinzin)
-* **Klemente** - *Apple Developer Academy/UCB* - [GitHub]()
+* **Matheus Clemente** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/matheusclemente)
 
 ## Agradecimentos
 
-* Marcus T Morais - Instrutor
+* Marcos T. Morais - Instrutor
