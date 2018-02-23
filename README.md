@@ -1,6 +1,6 @@
 # ReplayKit
 
-Este conteúdo tem o intuito de realizar um projeto para o aprendizado do uso do ReplayKit, tal como o importe da framework para o projeto, implementar delegates, métodos para inicializar, manipular, editar e armazenar a gravação.
+Este conteúdo tem o intuito de instruir na criação de um projeto utilizando a estrutura do ReplayKit, tal como o importe da framework para o projeto, implementar delegates, métodos para inicializar, manipular, editar e armazenar a gravação.
 
 
 + ## Passo a passo para a implementação do ReplayKit 
@@ -33,4 +33,4 @@ Este conteúdo tem o intuito de realizar um projeto para o aprendizado do uso do
 
 ## Agradecimentos
 
-* Marcos T. Morais - Instrutor
+* Marcos T. Morais - Instrutor 
