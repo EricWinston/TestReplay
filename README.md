@@ -26,10 +26,10 @@ Este conteúdo tem o intuito de instruir na criação de um projeto utilizando a
 ## Autores
 
 
-* **Eric Winston** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/EricWinston)
-* **Geovanni Oliveira** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/Geovannioj)
-* **Arthur de Castro** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/ravinzin)
-* **Matheus Clemente** - *Apple Developer Academy/UCB* - [GitHub](https://github.com/matheusclemente)
+* **Eric Winston** - *Developer Academy/UCB* - [GitHub](https://github.com/EricWinston)
+* **Geovanni Oliveira** - *Developer Academy/UCB* - [GitHub](https://github.com/Geovannioj)
+* **Arthur de Castro** - *Developer Academy/UCB* - [GitHub](https://github.com/ravinzin)
+* **Matheus Clemente** - *Developer Academy/UCB* - [GitHub](https://github.com/matheusclemente)
 
 ## Agradecimentos
 
